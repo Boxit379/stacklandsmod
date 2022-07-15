@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>YourMod</AssemblyName>
-    <Description>Your amazing mod!</Description>
+    <AssemblyName>StacklandsPlus</AssemblyName>
+    <Description>Adds new cool stuff! :O</Description>
     <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
