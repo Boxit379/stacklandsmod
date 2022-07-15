@@ -1,9 +1,9 @@
 {
-	"id": "ModTemplate",
-	"name": "Mod Template",
-	"repo": "YourName/YourRepo",
+	"id": "StacklandsPlus",
+	"name": "Stacklands+",
+	"repo": "Boxit379/stacklandsmod",
 	"version": "0.0.1",
-	"developer": "YourName",
-	"description": "Mod template",
+	"developer": "Ben",
+	"description": "Adds cool stuff",
 	"dependencies": {}
 }
